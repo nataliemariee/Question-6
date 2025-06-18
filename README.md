@@ -1,3 +1,3 @@
 # Question-6
 
-![Data Wrapper Chart]([DataWrapper-viz-Question5](https://www.datawrapper.de/_/2L4YK/))
+![Data Wrapper Chart](https://datawrapper.dwcdn.net/2L4YK/1/)
