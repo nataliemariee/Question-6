@@ -1,3 +1,3 @@
 # Question-6
 
-![This is a data wrapper chart](DataWrapper-viz-Question5)
+![DataWrapper-viz-Question5](https://datawrapper.dwcdn.net/2L4YK/1/)
