@@ -1,7 +1,7 @@
 # Question-6
 
-![Data Wrapper Chart]([https://datawrapper.dwcdn.net/2L4YK/1/](https://datawrapper.dwcdn.net/2L4YK/1/))
-
+ ![Data Wrapper Chart](DataWrapper-viz-Question5.png)
+ 
 ## Why this question?
 Just a couple weeks ago, I actually really had to use the restroom on a flight from NYC to LA. I was really nervous to ask the people next to me to move out of the way so that I could use the restroom because I was sitting in the window seat.
 
